@@ -11,6 +11,9 @@ with open('config.yml') as file:
 
 # 읽어온 설정 값을 앱에 적용하기
 app.config.update(config)
+myName = '소경학'
+myId = 'godnes628'
+myPassword = 'gyeonghak123'
 
 @app.route('/', methods=['GET'])
 def home():

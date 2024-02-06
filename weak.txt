@@ -1,0 +1,3 @@
+myPw = 'asdjzxc'
+
+ak = 'HSas1w8vlzO'
