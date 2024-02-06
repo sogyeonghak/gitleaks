@@ -1,1 +1,2 @@
 commit_1 = 아무것도 안함
+commit_2 = txt, yml, 코드 다 취약점 넣고 진행함 -> 일단 아무것도 탐지 못함 myPw, password
