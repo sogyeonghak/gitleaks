@@ -1,3 +1,8 @@
 myPw = 'asdjzxc'
 
 ak = 'HSas1w8vlzO'
+aws-secret-key= "123132asdkakc"
+aws-access-key= "123sdkzjxkxx"
+aws_serect_key = "123123"
+aws_access_key = "knbvkxjvbk"
+aws_serectKey = "12313"

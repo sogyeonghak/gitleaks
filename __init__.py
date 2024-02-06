@@ -15,6 +15,7 @@ myName = '소경학'
 myId = 'godnes628'
 myPassword = 'gyeonghak123'
 password = '123123soso!'
+
 @app.route('/', methods=['GET'])
 def home():
     return render_template('home.html', test=app.config.get('name')['gyeonghak'])
