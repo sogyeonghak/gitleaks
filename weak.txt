@@ -6,5 +6,5 @@ aws-access-key= "123sdkzjxkxx"
 aws_serect_key = "123123"
 aws_access_key = "knbvkxjvbk"
 aws_serectKey = "12313"
-
-aws_access_key_id = AKAKDKSDKZXKC
+sdd
+aws_access_key_id = AKIBUZBRM12345DBPPs
